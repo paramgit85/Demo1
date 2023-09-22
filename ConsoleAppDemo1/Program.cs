@@ -15,10 +15,9 @@ namespace ConsoleAppDemo1
 
         static void Sum()
         {
-            int first = 5;
-            int second = 10;
-            int sum = first + second;
+            int a=5;
+            int b=10;
+            // int c= a+ b;
         }
-
     }
 }

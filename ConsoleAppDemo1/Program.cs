@@ -12,5 +12,13 @@ namespace ConsoleAppDemo1
         {
             //My consoleapp
         }
+
+        static void Sum()
+        {
+            int first = 5;
+            int second = 10;
+            int sum = first + second;
+        }
+
     }
 }
